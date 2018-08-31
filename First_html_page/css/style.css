@@ -1,0 +1,56 @@
+*{margin: 0px;}
+body{
+	background-image:url('../image/wide.jpg'); 
+}
+img{
+	width: 150px;
+	height: 150px;
+	border-radius: 100%;
+    display: block;
+    margin: 0 auto;
+    margin-top: 100px;
+    border: 15px solid #366d8f;
+}
+.section1{
+	width: 31%;
+    height: 237px;
+    background-color: #366d8f;
+    margin: 0 auto;
+    margin-top: -68px;
+    border-radius: 15px;
+ }
+ .space{
+ 	height: 52px;
+ }
+ .name{
+ 	display: block;
+ 	text-align: center;
+ 	margin-top: 5px;
+ 	color: white;
+ }
+ .address{
+    display: block;
+    text-align: center;
+    margin-top: 5px;
+    color: white;
+ }
+
+ .mobile{
+    display: block;
+    text-align: center;
+    margin-top: 5px;
+    color: white;
+ }
+
+ .age{
+    display: block;
+    text-align: center;
+    margin-top: 5px;
+    color: white;
+ }
+ .email{
+    display: block;
+    text-align: center;
+    margin-top: 5px;
+    color: white;
+ }
